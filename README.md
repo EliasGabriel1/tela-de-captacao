@@ -4,6 +4,8 @@ Você pode rodar o projeto na sua máquina clonando o projeto, se não saber com
 
 Baixe as dependências com npm i e start o projeto com npm start.
 
+<br>
+<br>
 
 Para ver a prévia feita no figma, clique em cima aqui:
 
@@ -16,6 +18,13 @@ You can run the project on your machine by cloning the project, if you don't kno
 
 
 Download the dependencies with npm i and start the project with npm start.
+
+<br>
+<br>
+
+To see the preview made in figma, click here:
+
+<a href="https://www.figma.com/file/04VksldwQwGxOCyJU4GZtl/frame1?node-id=0%3A1"  target="_blank">![bc readne](https://user-images.githubusercontent.com/50595684/140429879-5a548f2f-71a6-411f-b06c-0ce9b845198d.PNG) </a>
 
 
 Informações das bibliotecas / Library information:
