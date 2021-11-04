@@ -23,7 +23,26 @@ text-align: center;
         line-height: inherit;
         background-size: cover;
         background-position-x: center;
-    `};
+        `};
+        svg.github{
+            fill:#fff;
+            position: absolute;
+            right: 0;
+            top: 0;
+            margin: 25px 30px 0 0;
+        }
+        footer{
+            position:absolute;
+            bottom:0;
+            ${customMedia.lessThan("mobile")`
+                padding-bottom: 5px;
+            `};
+            p{
+                width:100vw;
+                display:flex;
+                justify-content:center;
+            }
+    }
 `;
 
 export default Main;
