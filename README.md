@@ -7,7 +7,7 @@ Baixe as dependências com npm i e start o projeto com npm start.
 
 Para ver a prévia feita no figma, clique em cima aqui:
 
-<a href="https://www.figma.com/file/04VksldwQwGxOCyJU4GZtl/frame1?node-id=0%3A1" target="__blank">![bc readne](https://user-images.githubusercontent.com/50595684/140429879-5a548f2f-71a6-411f-b06c-0ce9b845198d.PNG) </a>
+<a href="https://www.figma.com/file/04VksldwQwGxOCyJU4GZtl/frame1?node-id=0%3A1"  target="_blank">![bc readne](https://user-images.githubusercontent.com/50595684/140429879-5a548f2f-71a6-411f-b06c-0ce9b845198d.PNG) </a>
 
 
 # EN The site is hosted by vercel, you can see it <a href="https://tela-de-captacao-ed5s4eya1-eliasgabriel1.vercel.app/"> HERE </a>.
